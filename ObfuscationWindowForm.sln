@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObfuscationWindowFormNet", "ObfuscationWindowFormNet\ObfuscationWindowFormNet.csproj", "{23582C7C-9F2F-4A06-AB97-843FDF653BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiDebug", "AntiDebug\AntiDebug.csproj", "{689DF1FD-E510-4F5E-AFCD-5210F2511145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23582C7C-9F2F-4A06-AB97-843FDF653BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23582C7C-9F2F-4A06-AB97-843FDF653BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23582C7C-9F2F-4A06-AB97-843FDF653BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23582C7C-9F2F-4A06-AB97-843FDF653BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689DF1FD-E510-4F5E-AFCD-5210F2511145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689DF1FD-E510-4F5E-AFCD-5210F2511145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689DF1FD-E510-4F5E-AFCD-5210F2511145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689DF1FD-E510-4F5E-AFCD-5210F2511145}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0579A20-7129-401A-BE60-3CECF4403B9D}
+	EndGlobalSection
+EndGlobal
